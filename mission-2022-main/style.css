@@ -1,0 +1,91 @@
+ h1{
+     font-size: 50px;
+     margin: 0;
+ }
+#border{
+    border-left:5px solid orange;  
+}|
+.font-family{
+    font-size: 60px;
+    font-weight: 100;
+    font-family: 'Abril Fatface', cursive;
+
+}
+
+.m-2022{
+    color: orange;
+}
+.top-banner{
+    display: flex;
+    margin: 100px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 35px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+#my-mission{
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+}
+.mission-vission{
+    display: flex;
+}
+.mission{
+    background-color: rgba(240, 252, 250, 0.986);
+    border-radius: 20px;
+    margin: 10px 30px;
+    padding: 10px;
+}
+.mission img{
+    width: 40%;
+}
+.vission{
+    background-color:rgba(245, 232, 244, 0.884);
+    border-radius: 20px;
+    margin: 10px 30px;
+    padding: 10px;
+}
+.vission img{
+    width: 40%;
+}
+.goal{
+    background-color: rgb(241, 225, 193);
+    border-radius: 20px;
+    margin: 10px 30px;
+    padding: 10px;
+}
+.goal img{
+    width: 40%;
+}
+.shape{
+    background-image: url(images/shapes/shape.png);
+    background-position: left;
+    background-repeat: no-repeat;  
+}
+#fotter{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    font-style: italic;
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+}
+#color-2022{
+    color: red;
+    font-family: fantasy;
+    font-style: italic;
+}
