@@ -2,6 +2,12 @@
      font-size: 50px;
      margin: 0;
  }
+ body{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+ }
 #border{
     border-left:5px solid orange;  
 }|
